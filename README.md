@@ -45,10 +45,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Postgre</span><br><br><br>
-        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
-      </td>
+      
     </tr>
   </tbody>
 </table>
