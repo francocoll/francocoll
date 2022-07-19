@@ -38,8 +38,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
         <img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
       </td>
       <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
         <span>Express</span><br><br><br>
